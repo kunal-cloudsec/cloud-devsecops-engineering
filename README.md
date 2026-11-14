@@ -1,4 +1,6 @@
- Cloud & DevSecOps Engineering 🚀
+🖤 Cloud & DevSecOps Engineering 🚀
+
+---
 
 🎯 Current Focus
 
@@ -22,6 +24,8 @@
 - 📊 Prometheus & Grafana
 - 🔄 GitOps / Argo CD
 
+---
+
 📂 Featured Project
 
 🚀 Cloud DevSecOps Engineering
@@ -30,17 +34,23 @@ Hands-on engineering repository covering:
 
 🐧 Linux • 🌐 Networking • 🤖 Automation • 🔧 Git • ⚙️ CI/CD • 🔐 DevSecOps • 🐳 Docker • ☸️ Kubernetes • 🏗️ Terraform • ☁️ Cloud • 🛡️ Security • 📊 Monitoring • 🔄 GitOps
 
+---
+
 🔥 Engineering Approach
 
 Learn → Practice → Build → Test → Troubleshoot → Commit → Push
 
 Focused on practical implementation, automation, security, troubleshooting, and reproducible engineering workflows.
 
+---
+
 🌍 Career Focus
 
 ☁️ Cloud / DevSecOps Engineering
 
 🇩🇰 Denmark • 🇫🇮 Finland • 🇸🇪 Sweden • 🇨🇭 Switzerland
+
+---
 
 📬 Contact
 
