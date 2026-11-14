@@ -1,0 +1,23 @@
+name: Linux Scripts CI
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  test-scripts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Make scripts executable
+        run: chmod +x linux/health-check.sh linux/networking/network-check.sh
+
+      - name: Run Health Check Script
+        run: ./linux/health-check.sh
+
+      - name: Run Network Check Script
+        run: ./linux/networking/network-check.sh
+        
