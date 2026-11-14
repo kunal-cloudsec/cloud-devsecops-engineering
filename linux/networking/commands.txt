@@ -1,0 +1,15 @@
+# Linux Networking Commands
+
+ip addr
+ip route
+
+ss -tuln
+ss -s
+
+ping -c 4 1.1.1.1
+
+curl -I https://example.com
+wget -q --spider https://example.com
+
+dig example.com
+nslookup example.com
